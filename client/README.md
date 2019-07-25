@@ -1,3 +1,3 @@
 ## Client
 
-This is the place for your application front-end files.
+This is a template to create react projects from

@@ -6,20 +6,7 @@ $dark-gray: #313131;
 $off-white: #fbfbfb;
 
 @import 'home';
-@import 'navbar';
-@import 'admin-login';
-@import 'meetups';
-@import 'talks-page';
-@import 'admins';
-@import 'faq';
-@import 'rules';
-@import 'leaderboard';
-@import 'playerProfile';
-@import 'forumMain';
-@import 'forumTopic';
-@import 'forumThread';
-@import 'pagination';
-@import 'newsletters';
+
 
 html{
     -webkit-font-smoothing: antialiased;
@@ -31,22 +18,6 @@ body {
     margin: 0;
 }
 
-
-
-.top-div {
-    background-color: $background-color;
-    padding: 120px 0;
-    display: flex;
-    justify-content: center;
-
-    h1 {
-        text-align: center;
-        text-transform: uppercase;
-        font-weight: normal;
-        letter-spacing: 1px;
-        width: 100%;
-    }
-}
 .btn {
     cursor: pointer;
 }
